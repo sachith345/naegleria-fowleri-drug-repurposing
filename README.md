@@ -41,7 +41,6 @@ The study combines sequence analysis, structural bioinformatics, molecular docki
 naegleria-fowleri-drug-repurposing
 │
 ├── data/
-├── docs/
 ├── figures/
 ├── report/
 ├── results/
