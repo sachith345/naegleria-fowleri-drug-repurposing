@@ -1,10 +1,25 @@
 # My Contributions
 
-- Retrieved target protein sequence from UniProt
-- Performed BLAST analysis
-- Conducted InterPro domain annotation
-- Performed molecular docking using PyRx
-- Conducted ADMET profiling using ADMETlab
-- Performed protein flexibility analysis using CABS-flex
-- Assisted in scientific report writing
-- Conducted DFT-based FMO analysis using a Python workflow provided by project supervisor Dr. ManneKumar
+This project was completed as a final-year group project.
+
+My individual contributions included:
+
+* Retrieval of the target protein sequence from UniProt
+* Sequence similarity analysis using BLAST
+* Functional annotation using InterPro
+* Molecular docking using PyRx and AutoDock Vina
+* ADMET profiling using ADMETlab
+* Protein flexibility analysis using CABS-flex
+* Scientific report documentation
+* DFT-based FMO analysis using a Python workflow provided by project supervisor Dr. Manne MuniKumar
+
+## Tools Used
+
+* UniProt
+* BLAST
+* InterPro
+* PyRx
+* ADMETlab
+* CABS-flex
+* Python
+* PDB
