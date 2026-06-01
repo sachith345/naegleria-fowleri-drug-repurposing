@@ -12,7 +12,7 @@ Contains molecular docking scores and binding affinity values obtained from virt
 
 Contains ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) profiling results for the shortlisted lead compounds.
 
-### homo-lumo-results.xlsx
+### HOMO-LUMO-results.xlsx
 
 Contains DFT-based HOMO-LUMO analysis results used to evaluate the electronic properties and molecular reactivity of selected compounds.
 
