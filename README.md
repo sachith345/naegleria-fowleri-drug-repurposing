@@ -89,5 +89,3 @@ This work was completed as a Final Year B.Tech Biotechnology Group Project.
 ## Author
 
 **B. Sachithananda Reddy**
-B.Tech Biotechnology
-Bioinformatics | Computational Biology | Drug Discovery
